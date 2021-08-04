@@ -5,7 +5,7 @@ import 'package:package_info/package_info.dart';
 import 'package:url_launcher/url_launcher.dart' as urlLauncher;
 
 class AboutPage extends StatelessWidget {
-  static const String _website = "https://palota.co.za";
+  static const String _website = "https://palota.co.zaa";
   static const String _email = "jobs@palota.co.za";
   static const String _spotifyTerms =
       "https://www.spotify.com/us/legal/end-user-agreement/";
